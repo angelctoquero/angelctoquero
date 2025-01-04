@@ -2,10 +2,9 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Project1</b>
-  - [Project1](https://github.com/angelctoquero/project1)
-- <b>Project2</b>
-  - [Project2](https://github.com/angelctoquero/project2) <b></b>
+- <b>Active Directory Lab</b>
+  - [Project1](https://github.com/angelctoquero/activedirectorylab)
+
 
 
 
