@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Active Directory Lab</b>
-  - [Project1](https://github.com/angelctoquero/activedirectorylab)
+- <b>HomeLab</b>
+  - [Active Directory](https://github.com/angelctoquero/activedirectorylab)
 
 
 
