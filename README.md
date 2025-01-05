@@ -1,9 +1,10 @@
 <h1>Hi, I'm Angel! </h1>
-
+🔭 I’m working on skills to break into tech:
 <h2>👨‍💻 Projects:</h2>
 
-- <b>HomeLab</b>
-  - [Active Directory](https://github.com/angelctoquero/activedirectorylab)
+- <b>Active Directory HomeLab</b>
+  - [Virtual Machines, Windows Server, Group Policy Object](https://github.com/angelctoquero/activedirectorylab)
+    
 
 
 
