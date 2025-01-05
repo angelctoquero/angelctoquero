@@ -1,5 +1,5 @@
 <h1>Hi, I'm Angel! </h1>
-🔭 I’m working on skills to break into tech:
+🔭 Some notes on projects I've set up, I hope you find them useful:
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Active Directory HomeLab</b>
