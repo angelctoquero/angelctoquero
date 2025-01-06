@@ -1,9 +1,7 @@
-<h1>Hi, I'm Angel! </h1>
+# Hi, I'm Angel!
 🔭 Some notes on projects I've set up, I hope you find them useful:
-<h2>👨‍💻 Projects:</h2>
-
-- <b>Active Directory HomeLab</b>
-  - [Virtual Machines, Windows Server, Group Policy Object](https://github.com/angelctoquero/activedirectorylab)
+## 👨‍💻 Projects:
+  - Virtual Machines, Windows Server, Organizational Units, Group Policy Objects: [Active Directory Lab](https://github.com/angelctoquero/activedirectorylab)
     
 
 
