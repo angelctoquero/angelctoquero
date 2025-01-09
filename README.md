@@ -2,6 +2,7 @@
 🔭 Some notes on projects I've set up, I hope you find them useful:
 ## 👨‍💻 Projects:
   - Virtual Machines, Windows Server, Organizational Units, Group Policy Objects: [Active Directory Lab](https://github.com/angelctoquero/activedirectorylab)
+  - Entra ID, Microsoft 365, Intune: [MS Cloud Lab](https://github.com/angelctoquero/mscloudlab) 
     
 
 
